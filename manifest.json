@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Smart Notes",
+  "orientation": "any",
+  "scope": "/Smart-Notes/",
+  "short_name": "Smart Notes",
+  "start_url": "/Smart-Notes/",
+  "theme_color": "#ffffff",
+  "description": "A simple and user-friendly notes app to create, edit, search and manage notes.",
+  "id": "smart-notes",
+  "lang": "en"
+}
